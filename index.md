@@ -14,3 +14,8 @@ constant = "This is a string, probably?"
 ```
 
 
+## Adding a task list
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
